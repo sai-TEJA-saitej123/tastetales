@@ -11,7 +11,6 @@ Users can search, browse, view detailed instructions, and save their favorite re
 ## 🚀 Features
 
 - 🔍 **Search Recipes** by name
-- 🍱 **View All Recipes** with pagination
 - 💖 **Add to Favorites** (stored in localStorage)
 - 📄 **Recipe Detail Page** with category, area & YouTube video
 - 🌗 **Minimalist & Responsive Design** using Tailwind CSS
