@@ -4,7 +4,7 @@ TasteTales is a beautifully designed React application that lets users explore a
 Users can search, browse, view detailed instructions, and save their favorite recipes for later!
 
 ![TasteTales Screenshot](./screenshot.png)
-
+ Live link :https://tastetales.vercel.app/
 
 ---
 
