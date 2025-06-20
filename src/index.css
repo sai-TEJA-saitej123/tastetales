@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-font: "Lora", serif;
+  --secondary-font: "Lato", sans-serif;
+}
+
+.tastetales-title {
+  font-family: var(--primary-font);
+}
+.nav-links {
+  font-family: var(--secondary-font);
+}
